@@ -549,6 +549,7 @@ These can be safely ignored. They are caused by Renovate using the `org.opencont
 
 ## Learn more
 
+* [Updating APK packages with Renovate](/chainguard/containers/security-and-compliance/updating-containers/renovate-apk/) covers using Renovate's APK datasource to keep pinned `apk add` versions in your Dockerfiles current.
 * [Using Digestabot with Chainguard Containers](/chainguard/containers/security-and-compliance/updating-containers/digestabot/) covers Chainguard's own GitHub Action for keeping digest-pinned references current.
 * [Using Dependabot with Chainguard Containers](/chainguard/containers/security-and-compliance/updating-containers/dependabot/) covers the equivalent setup for teams already using Dependabot.
 * [Strategies and tooling for updating containers](/chainguard/containers/security-and-compliance/updating-containers/strategies-tools-updating-images/) compares the wider range of update tools.
